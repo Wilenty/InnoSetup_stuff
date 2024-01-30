@@ -21,7 +21,7 @@ Get it from there: https://github.com/Wilenty/Plug-ins-for-InnoSetup
 
 ---
 ### https://github.com/Wilenty/InnoSetup-CONTROLS
-This sample installer allows you to check the controls on all InnoSetup pages.
+This sample installer allows you to check the controls (name/size/parent control) on all pages or specific page of InnoSetup.
 
 ---
 ### https://github.com/Wilenty/InnoSetup-Types-Components-Tasks-Run-Directly-In-the-code-
