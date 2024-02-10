@@ -95,7 +95,7 @@ This script is designed for all InnoSetup installers creators to close all runni
 This InnoSetup plugin can check for running processes and/or loaded modules, also can execute console program, and returns his output in real time to the CallBack function.
 
 ---
-### https://github.com/Wilenty/NSudo-for-InnoSetup\
+### https://github.com/Wilenty/NSudo-for-InnoSetup
 [![Latest Version](https://img.shields.io/github/release/Wilenty/NSudo-for-InnoSetup.svg)](https://github.com/Wilenty/NSudo-for-InnoSetup/releases/latest)
 [![Total Downloads](https://img.shields.io/github/downloads/Wilenty/NSudo-for-InnoSetup/total.svg)](https://github.com/Wilenty/NSudo-for-InnoSetup/releases)
 [![Latest Release Downloads](https://img.shields.io/github/downloads/Wilenty/NSudo-for-InnoSetup/latest/total.svg)](https://github.com/Wilenty/NSudo-for-InnoSetup/releases/latest)
