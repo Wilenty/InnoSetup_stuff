@@ -19,6 +19,10 @@ This tool is designed to convert InnoSetup 5.x and 6.x constants to local paths 
 
 ---
 ### https://github.com/Wilenty/7zOverlay
+[![Latest Version](https://img.shields.io/github/release/Wilenty/7zOverlay.svg)](https://github.com/Wilenty/7zOverlay/releases/latest)
+[![Total Downloads](https://img.shields.io/github/downloads/Wilenty/7zOverlay/total.svg)](https://github.com/Wilenty/7zOverlay/releases)
+[![Latest Release Downloads](https://img.shields.io/github/downloads/Wilenty/7zOverlay/latest/total.svg)](https://github.com/Wilenty/7zOverlay/releases/latest)
+[![v19.09b Release Downloads](https://img.shields.io/github/downloads/Wilenty/7zOverlay/v19.09b/total.svg)](https://github.com/Wilenty/7zOverlay/releases/v19.09b)
 The 7zOverlay.dll is designed to use original 7z.dll without use of the complicated code and it uses the same parameters as the 7z.exe file.
 
 ---
@@ -27,6 +31,9 @@ Get it from there: https://github.com/Wilenty/Plug-ins-for-InnoSetup
 
 ---
 ### https://github.com/Wilenty/InnoSetup-CONTROLS
+[![Latest Version](https://img.shields.io/github/release/Wilenty/InnoSetup-CONTROLS.svg)](https://github.com/Wilenty/InnoSetup-CONTROLS/releases/latest)
+[![Total Downloads](https://img.shields.io/github/downloads/Wilenty/InnoSetup-CONTROLS/total.svg)](https://github.com/Wilenty/InnoSetup-CONTROLS/releases)
+[![Latest Release Downloads](https://img.shields.io/github/downloads/Wilenty/InnoSetup-CONTROLS/latest/total.svg)](https://github.com/Wilenty/InnoSetup-CONTROLS/releases/latest)
 This sample installer allows you to check the controls (name/size/parent control) on all pages or specific page of InnoSetup.
 
 ---
@@ -35,10 +42,16 @@ InnoSetup [Types], [Components], [Tasks], [Run] Directly In the [code]
 
 ---
 ### https://github.com/Wilenty/Wcx2Inno
+[![Latest Version](https://img.shields.io/github/release/Wilenty/Wcx2Inno.svg)](https://github.com/Wilenty/Wcx2Inno/releases/latest)
+[![Total Downloads](https://img.shields.io/github/downloads/Wilenty/Wcx2Inno/total.svg)](https://github.com/Wilenty/Wcx2Inno/releases)
+[![Latest Release Downloads](https://img.shields.io/github/downloads/Wilenty/Wcx2Inno/latest/total.svg)](https://github.com/Wilenty/Wcx2Inno/releases/latest)
 Use any WCX plug-in in your InnoSetup 
 
 ---
 ### https://github.com/Wilenty/TSMBIOS-For-InnoSetup
+[![Latest Version](https://img.shields.io/github/release/Wilenty/TSMBIOS-For-InnoSetup.svg)](https://github.com/Wilenty/TSMBIOS-For-InnoSetup/releases/latest)
+[![Total Downloads](https://img.shields.io/github/downloads/Wilenty/TSMBIOS-For-InnoSetup/total.svg)](https://github.com/Wilenty/TSMBIOS-For-InnoSetup/releases)
+[![Latest Release Downloads](https://img.shields.io/github/downloads/Wilenty/TSMBIOS-For-InnoSetup/latest/total.svg)](https://github.com/Wilenty/TSMBIOS-For-InnoSetup/releases/latest)
 "The SMBIOS (System Management BIOS) is a standard developed by the DMTF. The information stored in the SMBIOS includes devices manufacturer, model name, serial number, BIOS version, asset tag, processors, ports and device memory installed."
 
 ---
