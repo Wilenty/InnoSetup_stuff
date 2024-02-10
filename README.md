@@ -8,6 +8,12 @@ This tool is designed to fix Inno Setup languages from extracted script to it's 
 
 ---
 ### https://github.com/Wilenty/Plug-ins-for-InnoSetup
+[![Latest Version](https://img.shields.io/github/release/Wilenty/Plug-ins-for-InnoSetup.svg)](https://github.com/Wilenty/Plug-ins-for-InnoSetup/releases/latest)
+[![Total Downloads](https://img.shields.io/github/downloads/Wilenty/Plug-ins-for-InnoSetup/total.svg)](https://github.com/Wilenty/Plug-ins-for-InnoSetup/releases)
+[![Latest Release Downloads](https://img.shields.io/github/downloads/Wilenty/Plug-ins-for-InnoSetup/latest/total.svg)](https://github.com/Wilenty/Plug-ins-for-InnoSetup/releases/latest)
+[![v6.2.3 Release Downloads](https://img.shields.io/github/downloads/Wilenty/Plug-ins-for-InnoSetup/v6.2.3/total.svg)](https://github.com/Wilenty/Plug-ins-for-InnoSetup/releases/v6.2.3)
+[![v6.2.2 Release Downloads](https://img.shields.io/github/downloads/Wilenty/Plug-ins-for-InnoSetup/v6.2.2/total.svg)](https://github.com/Wilenty/Plug-ins-for-InnoSetup/releases/v6.2.2)
+[![v6.2.1 Release Downloads](https://img.shields.io/github/downloads/Wilenty/Plug-ins-for-InnoSetup/v6.2.1/total.svg)](https://github.com/Wilenty/Plug-ins-for-InnoSetup/releases/v6.2.1)
 Here I share examples of my works, for example, to get specific information of the user hardware, or in the GetCommandLine example you can get all command-line parameters in the latest InnoSetup.
 
 ---
@@ -27,6 +33,9 @@ The 7zOverlay.dll is designed to use original 7z.dll without use of the complica
 
 ---
 ### https://github.com/Wilenty/InnoSetup-with-latest-LZMA
+[![Latest Version](https://img.shields.io/github/release/Wilenty/InnoSetup-with-latest-LZMA.svg)](https://github.com/Wilenty/InnoSetup-with-latest-LZMA/releases/latest)
+[![Total Downloads](https://img.shields.io/github/downloads/Wilenty/InnoSetup-with-latest-LZMA/total.svg)](https://github.com/Wilenty/InnoSetup-with-latest-LZMA/releases)
+[![Latest Release Downloads](https://img.shields.io/github/downloads/Wilenty/InnoSetup-with-latest-LZMA/latest/total.svg)](https://github.com/Wilenty/InnoSetup-with-latest-LZMA/releases/latest)
 Get it from there: https://github.com/Wilenty/Plug-ins-for-InnoSetup
 
 ---
@@ -38,7 +47,10 @@ This sample installer allows you to check the controls (name/size/parent control
 
 ---
 ### https://github.com/Wilenty/InnoSetup-Types-Components-Tasks-Run-Directly-In-the-code-
-InnoSetup [Types], [Components], [Tasks], [Run] Directly In the [code] 
+[![Latest Version](https://img.shields.io/github/release/Wilenty/InnoSetup-Types-Components-Tasks-Run-Directly-In-the-code-.svg)](https://github.com/Wilenty/InnoSetup-Types-Components-Tasks-Run-Directly-In-the-code-/releases/latest)
+[![Total Downloads](https://img.shields.io/github/downloads/Wilenty/InnoSetup-Types-Components-Tasks-Run-Directly-In-the-code-/total.svg)](https://github.com/Wilenty/InnoSetup-Types-Components-Tasks-Run-Directly-In-the-code-/releases)
+[![Latest Release Downloads](https://img.shields.io/github/downloads/Wilenty/InnoSetup-Types-Components-Tasks-Run-Directly-In-the-code-/latest/total.svg)](https://github.com/Wilenty/InnoSetup-Types-Components-Tasks-Run-Directly-In-the-code-/releases/latest)
+DEMO of: InnoSetup [Types], [Components], [Tasks], [Run] Directly In the [code] 
 
 ---
 ### https://github.com/Wilenty/Wcx2Inno
@@ -56,24 +68,42 @@ Use any WCX plug-in in your InnoSetup
 
 ---
 ### https://github.com/Wilenty/InnoSetup-Scripts
+[![Latest Version](https://img.shields.io/github/release/Wilenty/InnoSetup-Scripts.svg)](https://github.com/Wilenty/InnoSetup-Scripts/releases/latest)
+[![Total Downloads](https://img.shields.io/github/downloads/Wilenty/InnoSetup-Scripts/total.svg)](https://github.com/Wilenty/InnoSetup-Scripts/releases)
+[![Latest Release Downloads](https://img.shields.io/github/downloads/Wilenty/InnoSetup-Scripts/latest/total.svg)](https://github.com/Wilenty/InnoSetup-Scripts/releases/latest)
 Here I will share the InnoSetup scripts where people asked for the solution on the InnoSetup forum, or on other websites and they didn't receive answers.
 
 ---
 ### https://github.com/Wilenty/AutoIT-for-InnoSetup
+[![Latest Version](https://img.shields.io/github/release/Wilenty/AutoIT-for-InnoSetup.svg)](https://github.com/Wilenty/AutoIT-for-InnoSetup/releases/latest)
+[![Total Downloads](https://img.shields.io/github/downloads/Wilenty/AutoIT-for-InnoSetup/total.svg)](https://github.com/Wilenty/AutoIT-for-InnoSetup/releases)
+[![Latest Release Downloads](https://img.shields.io/github/downloads/Wilenty/AutoIT-for-InnoSetup/latest/total.svg)](https://github.com/Wilenty/AutoIT-for-InnoSetup/releases/latest)
 Use "AutoItX3.dll" in your InnoSetup installer to make it more advanced.
 
 ---
 ### https://github.com/Wilenty/Simple-InnoSetup-script-to-close-all-running-programs-from-installed-location
+[![Latest Version](https://img.shields.io/github/release/Wilenty/Simple-InnoSetup-script-to-close-all-running-programs-from-installed-location.svg)](https://github.com/Wilenty/Simple-InnoSetup-script-to-close-all-running-programs-from-installed-location/releases/latest)
+[![Total Downloads](https://img.shields.io/github/downloads/Wilenty/Simple-InnoSetup-script-to-close-all-running-programs-from-installed-location/total.svg)](https://github.com/Wilenty/Simple-InnoSetup-script-to-close-all-running-programs-from-installed-location/releases)
+[![Latest Release Downloads](https://img.shields.io/github/downloads/Wilenty/Simple-InnoSetup-script-to-close-all-running-programs-from-installed-location/latest/total.svg)](https://github.com/Wilenty/Simple-InnoSetup-script-to-close-all-running-programs-from-installed-location/releases/latest)
 This script is designed for all InnoSetup installers creators to close all running programs from installed location.
 
 ---
 ### https://github.com/Wilenty/InnoSetup-plugin-ExecDos-and-CheckRunning
+[![Latest Version](https://img.shields.io/github/release/Wilenty/InnoSetup-plugin-ExecDos-and-CheckRunning.svg)](https://github.com/Wilenty/InnoSetup-plugin-ExecDos-and-CheckRunning/releases/latest)
+[![Total Downloads](https://img.shields.io/github/downloads/Wilenty/InnoSetup-plugin-ExecDos-and-CheckRunning/total.svg)](https://github.com/Wilenty/InnoSetup-plugin-ExecDos-and-CheckRunning/releases)
+[![Latest Release Downloads](https://img.shields.io/github/downloads/Wilenty/InnoSetup-plugin-ExecDos-and-CheckRunning/latest/total.svg)](https://github.com/Wilenty/InnoSetup-plugin-ExecDos-and-CheckRunning/releases/latest)
 This InnoSetup plugin can check for running processes and/or loaded modules, also can execute console program, and returns his output in real time to the CallBack function.
 
 ---
-### https://github.com/Wilenty/NSudo-for-InnoSetup
+### https://github.com/Wilenty/NSudo-for-InnoSetup\
+[![Latest Version](https://img.shields.io/github/release/Wilenty/NSudo-for-InnoSetup.svg)](https://github.com/Wilenty/NSudo-for-InnoSetup/releases/latest)
+[![Total Downloads](https://img.shields.io/github/downloads/Wilenty/NSudo-for-InnoSetup/total.svg)](https://github.com/Wilenty/NSudo-for-InnoSetup/releases)
+[![Latest Release Downloads](https://img.shields.io/github/downloads/Wilenty/NSudo-for-InnoSetup/latest/total.svg)](https://github.com/Wilenty/NSudo-for-InnoSetup/releases/latest)
 Please download the "Win32" dll's from there: https://github.com/M2Team/NSudo/releases 
 
 ---
 ### https://github.com/Wilenty/Types-Conversions-for-InnoSetup
+[![Latest Version](https://img.shields.io/github/release/Wilenty/Types-Conversions-for-InnoSetup.svg)](https://github.com/Wilenty/Types-Conversions-for-InnoSetup/releases/latest)
+[![Total Downloads](https://img.shields.io/github/downloads/Wilenty/Types-Conversions-for-InnoSetup/total.svg)](https://github.com/Wilenty/Types-Conversions-for-InnoSetup/releases)
+[![Latest Release Downloads](https://img.shields.io/github/downloads/Wilenty/Types-Conversions-for-InnoSetup/latest/total.svg)](https://github.com/Wilenty/Types-Conversions-for-InnoSetup/releases/latest)
 With this DLL you can extend the InnoSetup to the Pointers not included by default like a PWideChar, please check the sample I have included. And please don't mix the data-types! 
