@@ -36,6 +36,8 @@ The 7zOverlay.dll is designed to use original 7z.dll without use of the complica
 [![Latest Version](https://img.shields.io/github/release/Wilenty/InnoSetup-with-latest-LZMA.svg)](https://github.com/Wilenty/InnoSetup-with-latest-LZMA/releases/latest)
 [![Total Downloads](https://img.shields.io/github/downloads/Wilenty/InnoSetup-with-latest-LZMA/total.svg)](https://github.com/Wilenty/InnoSetup-with-latest-LZMA/releases)
 [![Latest Release Downloads](https://img.shields.io/github/downloads/Wilenty/InnoSetup-with-latest-LZMA/latest/total.svg)](https://github.com/Wilenty/InnoSetup-with-latest-LZMA/releases/latest)
+[![v6.3.0-dev Release Downloads](https://img.shields.io/github/downloads/Wilenty/InnoSetup-with-latest-LZMA/v6.3.0-devFLZMA2c/total.svg)](https://img.shields.io/github/downloads/Wilenty/InnoSetup-with-latest-LZMA/releases/v6.3.0-devFLZMA2c)
+[![v6.2.1-FIXED Release Downloads](https://img.shields.io/github/downloads/Wilenty/InnoSetup-with-latest-LZMA/v6.2.1-FIXED/total.svg)](https://img.shields.io/github/downloads/Wilenty/InnoSetup-with-latest-LZMA/releases/v6.2.1-FIXED)
 Get it from there: https://github.com/Wilenty/Plug-ins-for-InnoSetup
 
 ---
