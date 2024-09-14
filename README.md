@@ -1,6 +1,13 @@
 # Stuff for InnoSetup
 
-### https://github.com/Wilenty/issrc
+### https://github.com/Wilenty/InnoUnpacker-Windows-GUI/releases/tag/v1.72 
+[![Latest Version](https://img.shields.io/github/release/Wilenty/InnoUnpacker-Windows-GUI.svg)](https://github.com/Wilenty/InnoUnpacker-Windows-GUI/releases/latest)
+[![Total Downloads](https://img.shields.io/github/downloads/Wilenty/InnoUnpacker-Windows-GUI/total.svg)](https://github.com/Wilenty/InnoUnpacker-Windows-GUI/releases)
+[![Latest Release Downloads](https://img.shields.io/github/downloads/Wilenty/InnoUnpacker-Windows-GUI/latest/total.svg)](https://github.com/Wilenty/InnoUnpacker-Windows-GUI/releases/latest)
+innounp 1.72 (MOD by JR and compiled by me)
+
+---
+### https://github.com/Wilenty/issrc 
 This is not a real repository (...)
 
 ---
