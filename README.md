@@ -11,10 +11,10 @@ innounp 1.72 (MOD by JR and compiled by me)
 This is not a real repository (...)
 
 ---
-### https://github.com/Wilenty/InnoSetup_6.3.x_-_6.4.x-dev_Unpacker-Extractor_ 
-[![Latest Version](https://img.shields.io/github/release/Wilenty/InnoSetup_6.3.x_-_6.4.x-dev_Unpacker-Extractor_.svg)](https://github.com/Wilenty/InnoSetup_6.3.x_-_6.4.x-dev_Unpacker-Extractor_/releases/latest)
-[![Total Downloads](https://img.shields.io/github/downloads/Wilenty/InnoSetup_6.3.x_-_6.4.x-dev_Unpacker-Extractor_/total.svg)](https://github.com/Wilenty/InnoSetup_6.3.x_-_6.4.x-dev_Unpacker-Extractor_/releases)
-[![Latest Release Downloads](https://img.shields.io/github/downloads/Wilenty/InnoSetup_6.3.x_-_6.4.x-dev_Unpacker-Extractor_/latest/total.svg)](https://github.com/Wilenty/InnoSetup_6.3.x_-_6.4.x-dev_Unpacker-Extractor_/releases/latest)
+### https://github.com/Wilenty/InnoSetup_Unpacker-Extractor_ 
+[![Latest Version](https://img.shields.io/github/release/Wilenty/InnoSetup_Unpacker-Extractor_.svg)](https://github.com/Wilenty/InnoSetup_Unpacker-Extractor_/releases/latest)
+[![Total Downloads](https://img.shields.io/github/downloads/Wilenty/InnoSetup_Unpacker-Extractor_/total.svg)](https://github.com/Wilenty/InnoSetup_Unpacker-Extractor_/releases)
+[![Latest Release Downloads](https://img.shields.io/github/downloads/Wilenty/InnoSetup_Unpacker-Extractor_/latest/total.svg)](https://github.com/Wilenty/InnoSetup_Unpacker-Extractor_/releases/latest)
 This program extracts all files of InnoSetup installers made in version 6.3.x-6.4.x(-dev), saves embedded files (for example, language files with all entries), and better recreates/recovers the *.iss script (with external entries).
 
 ---
