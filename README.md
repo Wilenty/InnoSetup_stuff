@@ -1,5 +1,12 @@
 # Stuff for InnoSetup
 
+### https://github.com/Wilenty/InnoSetup-Updater/
+[![Latest Version](https://img.shields.io/github/release/Wilenty/InnoSetup-Updater.svg)](https://github.com/Wilenty/InnoSetup-Updater/releases/latest)
+[![Total Downloads](https://img.shields.io/github/downloads/Wilenty/InnoSetup-Updater/total.svg)](https://github.com/Wilenty/InnoSetup-Updater/releases)
+[![Latest Release Downloads](https://img.shields.io/github/downloads/Wilenty/InnoSetup-Updater/latest/total.svg)](https://github.com/Wilenty/InnoSetup-Updater/releases/latest)
+Small program to update/upgrade InnoSetup installation or Portable to the latest stable version or beta (dev) if available. It uses the Linux command-line "wget" program to download files.
+
+---
 ### https://github.com/Wilenty/InnoUnpacker-Windows-GUI/releases/tag/v1.72 
 [![Latest Version](https://img.shields.io/github/release/Wilenty/InnoUnpacker-Windows-GUI.svg)](https://github.com/Wilenty/InnoUnpacker-Windows-GUI/releases/latest)
 [![Total Downloads](https://img.shields.io/github/downloads/Wilenty/InnoUnpacker-Windows-GUI/total.svg)](https://github.com/Wilenty/InnoUnpacker-Windows-GUI/releases)
