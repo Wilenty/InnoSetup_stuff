@@ -1,5 +1,12 @@
 # Stuff for InnoSetup
 
+### https://github.com/Wilenty/d7zip4Inno
+[![Latest Version](https://img.shields.io/github/release/Wilenty/d7zip4Inno.svg)](https://github.com/Wilenty/d7zip4Inno/releases/latest)
+[![Total Downloads](https://img.shields.io/github/downloads/Wilenty/d7zip4Inno/total.svg)](https://github.com/Wilenty/d7zip4Inno/releases)
+[![Latest Release Downloads](https://img.shields.io/github/downloads/Wilenty/d7zip4Inno/latest/total.svg)](https://github.com/Wilenty/d7zip4Inno/releases/latest)
+Delphi 7-zip for InnoSetup
+
+---
 ### https://github.com/Wilenty/InnoSetup-Updater/
 [![Latest Version](https://img.shields.io/github/release/Wilenty/InnoSetup-Updater.svg)](https://github.com/Wilenty/InnoSetup-Updater/releases/latest)
 [![Total Downloads](https://img.shields.io/github/downloads/Wilenty/InnoSetup-Updater/total.svg)](https://github.com/Wilenty/InnoSetup-Updater/releases)
