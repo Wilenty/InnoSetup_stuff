@@ -1,5 +1,11 @@
 # Stuff for InnoSetup
 
+### Extended version of InnoSetup v6.4.2-{2025-03-12} (final):
+https://github.com/Wilenty/InnoSetup-with-latest-LZMA/releases/tag/v6.4.2-%7B2025-03-12%7D
+<br>And update for two examples of "CommandLineToArgvW.iss" and "IPconfig.iss":<br>
+https://github.com/Wilenty/InnoSetup-with-latest-LZMA/tree/main/InnoSetup%20v6.4.2-%7B2025-03-12%7D
+
+---
 ### https://github.com/Wilenty/d7zip4Inno
 [![Latest Version](https://img.shields.io/github/release/Wilenty/d7zip4Inno.svg)](https://github.com/Wilenty/d7zip4Inno/releases/latest)
 [![Total Downloads](https://img.shields.io/github/downloads/Wilenty/d7zip4Inno/total.svg)](https://github.com/Wilenty/d7zip4Inno/releases)
