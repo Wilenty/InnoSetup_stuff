@@ -1,5 +1,16 @@
 # Stuff for InnoSetup
 
+## Why anyone should pay for a broken software?
+https://groups.google.com/g/innosetup/c/TRAmYgf5gwU
+
+Check the "4.iss" script from this repository:<br>
+https://github.com/Wilenty/issrc/tree/main/InnoSetupBugs<br>
+in your version of InnoSetup.
+
+I had checked it in the InnoSetup versions of: 5.5.0, 5.6.1, 6.0.0, 6.5.1 and 6.5.2-beta. It compiles without any problems, but does not work, because of that bug. And I reported these bug on their own forum over 5 years ago.
+
+---
+
 ### Extended version of InnoSetup v6.4.2-{2025-03-12} (final):
 https://github.com/Wilenty/InnoSetup-with-latest-LZMA/releases/tag/v6.4.2-%7B2025-03-12%7D
 <br>And update for two examples of "CommandLineToArgvW.iss" and "IPconfig.iss":<br>
@@ -147,3 +158,4 @@ Please download the "Win32" dll's from there: https://github.com/M2Team/NSudo/re
 [![Total Downloads](https://img.shields.io/github/downloads/Wilenty/Types-Conversions-for-InnoSetup/total.svg)](https://github.com/Wilenty/Types-Conversions-for-InnoSetup/releases)
 [![Latest Release Downloads](https://img.shields.io/github/downloads/Wilenty/Types-Conversions-for-InnoSetup/latest/total.svg)](https://github.com/Wilenty/Types-Conversions-for-InnoSetup/releases/latest)
 With this DLL you can extend the InnoSetup to the Pointers not included by default like a PWideChar, please check the sample I have included. And please don't mix the data-types! 
+
